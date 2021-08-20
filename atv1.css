@@ -1,0 +1,63 @@
+.pmarg{
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+}
+
+#p1{
+    border: solid;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border-width: 10px;
+    border-color: black;
+}
+
+#p2{
+    border-width: 20px ;
+    border: solid, ;
+    background-color: yellow;
+    width: 200px;
+    border-color: yellow;
+}
+
+#p3{
+    border: dotted, ;
+    background-color: blue;
+    width: 200px;
+    color: white;
+    border-color: blue;
+}
+
+#p4{
+    border-style: dotted;
+    border-width: 10px;
+    width: 200px;
+    background-color: lawngreen;
+    color: black;
+    border-color: lawngreen;
+}
+#p5{
+    border-style: double;
+    border-width: 10px;
+    width: 200px;
+    border-color: cadetblue;
+    background-color: cadetblue;
+}
+#p6{
+    border-style: double;
+    width: 200px;
+    background-color: crimson;
+    border-color: crimson;
+    color: white;
+}
+
+#p7{
+    border-style: solid;
+  border-left-width: 20px;
+  border-right-width: 10px;
+    width: 200px;
+    border-color: brown;
+    background-color: brown;
+}
